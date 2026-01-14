@@ -1,0 +1,6 @@
+ccxt          # Exchange connectivity
+pandas        # Data manipulation
+pandas_ta     # Technical analysis indicators
+python-dotenv # Secret key management
+scikit-learn  # Basic AI/Machine Learning
+matplotlib    # Charting and visualization (for backtesting)
